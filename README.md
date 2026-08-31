@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -40,9 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
