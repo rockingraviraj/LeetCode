@@ -33,17 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
