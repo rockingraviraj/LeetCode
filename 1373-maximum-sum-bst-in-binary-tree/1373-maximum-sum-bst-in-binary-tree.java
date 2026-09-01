@@ -41,8 +41,8 @@ class Solution {
 
 	class BstPair {
 		boolean isbst = true;
-		long max = Long.MIN_VALUE;
-		long min = Long.MAX_VALUE;
+		int max = Integer.MIN_VALUE;
+		int min = Integer.MAX_VALUE;
 		int sum = 0;
 		int ans = 0;
         
