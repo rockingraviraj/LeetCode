@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3904-smallest-stable-index-ii](https://github.com/rockingraviraj/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/rockingraviraj/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
