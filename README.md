@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/rockingraviraj/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/rockingraviraj/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -70,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/rockingraviraj/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
