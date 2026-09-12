@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rockingraviraj/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0112-path-sum) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rockingraviraj/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rockingraviraj/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -109,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
