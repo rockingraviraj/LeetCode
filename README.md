@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rockingraviraj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/rockingraviraj/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rockingraviraj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rockingraviraj/LeetCode/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
