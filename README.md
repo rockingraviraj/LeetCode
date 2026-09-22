@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/rockingraviraj/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rockingraviraj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rockingraviraj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0113-path-sum-ii) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0113-path-sum-ii) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rockingraviraj/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rockingraviraj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
