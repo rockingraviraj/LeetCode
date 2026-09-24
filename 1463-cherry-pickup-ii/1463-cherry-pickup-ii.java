@@ -1,49 +1,61 @@
 class Solution {
     public int cherryPickup(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int row = 0;
-        int dp[][][] = new int[n][m][m];
-        for (int i = 0; i < n; i++) {
-           for (int j = 0; j < m; j++) {
-                   Arrays.fill(dp[i][j], -1);
+
+        int rows = grid.length;
+        int cols = grid[0].length;
+
+        int[][][] dp = new int[rows][cols][cols];
+
+        // Base Case
+        for (int j1 = 0; j1 < cols; j1++) {
+            for (int j2 = 0; j2 < cols; j2++) {
+
+                if (j1 == j2)
+                    dp[rows - 1][j1][j2] = grid[rows - 1][j1];
+                else
+                    dp[rows - 1][j1][j2] =
+                            grid[rows - 1][j1] + grid[rows - 1][j2];
+            }
+        }
+
+        // Fill DP Bottom-Up
+        for (int i = rows - 2; i >= 0; i--) {
+
+            for (int j1 = 0; j1 < cols; j1++) {
+
+                for (int j2 = 0; j2 < cols; j2++) {
+
+                    int max = (int) -1e8;
+
+                    for (int d1 = -1; d1 <= 1; d1++) {
+
+                        for (int d2 = -1; d2 <= 1; d2++) {
+
+                            int value;
+
+                            if (j1 == j2)
+                                value = grid[i][j1];
+                            else
+                                value = grid[i][j1] + grid[i][j2];
+
+                            int nj1 = j1 + d1;
+                            int nj2 = j2 + d2;
+
+                            if (nj1 >= 0 && nj1 < cols &&
+                                nj2 >= 0 && nj2 < cols)
+                                value += dp[i + 1][nj1][nj2];
+                            else
+                                value += (int) -1e8;
+
+                            max = Math.max(max, value);
+                        }
+                    }
+
+                    dp[i][j1][j2] = max;
                 }
             }
-        return Solve(row,0,m-1,grid,dp);
-        
-    }
-    private int Solve(int row,int col1,int col2,int[][]grid,int[][][] dp ){
-        if(col1 < 0 || col1>=grid[0].length || col2 < 0 || col2 >=grid[0].length){
-            return -1000000000;
-        }
-        if(dp[row][col1][col2] != -1){
-            return dp[row][col1][col2];
-        }
-        if(row == grid.length-1){
-            if(col1 == col2){
-                return grid[row][col1];
-            }
-            else{
-                return grid[row][col1] + grid[row][col2];
-            }
         }
 
-        int maxi = 0;
-
-        for(int r1 = -1;r1<=1;r1++){
-             for(int r2 = -1;r2<=1;r2++){
-                if(col1 == col2){
-                    maxi = Math.max(maxi,grid[row][col1] + Solve(row+1,col1+r1,col2+r2,grid,dp));
-                }
-                else{
-                    maxi = Math.max(maxi,grid[row][col1]+grid[row][col2] + Solve(row+1,col1+r1,col2+r2,grid,dp) );
-                }
-
-                dp[row][col1][col2] = maxi;
-
-            }
-        }
-        return dp[row][col1][col2];
-
+        return dp[0][0][cols - 1];
     }
 }
