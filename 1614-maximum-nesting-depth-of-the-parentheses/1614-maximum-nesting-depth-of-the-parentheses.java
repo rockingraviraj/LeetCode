@@ -6,11 +6,12 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(') {
                 depth++;
-                maxDepth = Math.max(maxDepth, depth);
+               
             } 
             else if (s.charAt(i) == ')') {
                 depth--;
             }
+             maxDepth = Math.max(maxDepth, depth);
         }
 
         return maxDepth;
