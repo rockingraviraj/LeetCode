@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rockingraviraj/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/rockingraviraj/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/rockingraviraj/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rockingraviraj/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
 |  |
