@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rockingraviraj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rockingraviraj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rockingraviraj/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1463-cherry-pickup-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rockingraviraj/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rockingraviraj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Prefix Sum
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rockingraviraj/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
