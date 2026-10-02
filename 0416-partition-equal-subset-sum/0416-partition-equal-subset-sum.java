@@ -17,7 +17,7 @@ class Solution {
             Arrays.fill(dp[i],-1);
         }
 
-        boolean ans = Solve(index,target,nums,dp);
+        boolean ans = Solve(n-1,target,nums,dp);
         return ans;
 
 
@@ -27,8 +27,8 @@ class Solution {
         if(target == 0){
             return true;
         }
-        if(index >= nums.length){
-            return false;
+        if(index == 0){
+            return target == nums[0];
         }
         if(target < 0){
             return false;
@@ -38,10 +38,10 @@ class Solution {
         }
 
         
-        boolean include = Solve(index + 1,target - nums[index], nums,dp);
-        boolean exclude = Solve(index + 1,target,nums,dp);
+        boolean include = Solve(index - 1,target - nums[index], nums,dp);
+        boolean exclude = Solve(index - 1,target,nums,dp);
          if(include || exclude){
-            dp[index][target] =1;
+            dp[index][target] = 1;
          }
          else{
             dp[index][target] = 0;
