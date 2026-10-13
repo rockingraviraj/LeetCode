@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rockingraviraj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/rockingraviraj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rockingraviraj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/rockingraviraj/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -211,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rockingraviraj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rockingraviraj/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rockingraviraj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rockingraviraj/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rockingraviraj/LeetCode/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rockingraviraj/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
