@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/rockingraviraj/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/rockingraviraj/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rockingraviraj/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
+| [1143-longest-common-subsequence](https://github.com/rockingraviraj/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rockingraviraj/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rockingraviraj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/rockingraviraj/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
