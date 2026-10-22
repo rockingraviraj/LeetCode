@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rockingraviraj/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0931-minimum-falling-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/rockingraviraj/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rockingraviraj/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rockingraviraj/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rockingraviraj/LeetCode/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Dancing Links
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/rockingraviraj/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/rockingraviraj/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rockingraviraj/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rockingraviraj/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
