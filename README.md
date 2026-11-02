@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rockingraviraj/LeetCode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rockingraviraj/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/rockingraviraj/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rockingraviraj/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/rockingraviraj/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rockingraviraj/LeetCode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/rockingraviraj/LeetCode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rockingraviraj/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Combinatorics
 |  |
@@ -333,4 +336,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rockingraviraj/LeetCode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
