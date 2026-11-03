@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rockingraviraj/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rockingraviraj/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rockingraviraj/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rockingraviraj/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/rockingraviraj/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rockingraviraj/LeetCode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rockingraviraj/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rockingraviraj/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Combinatorics
 |  |
 | ------- |
