@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rockingraviraj/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rockingraviraj/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/rockingraviraj/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/rockingraviraj/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/rockingraviraj/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rockingraviraj/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/rockingraviraj/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/rockingraviraj/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1092-shortest-common-supersequence](https://github.com/rockingraviraj/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/rockingraviraj/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rockingraviraj/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rockingraviraj/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rockingraviraj/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Longest Increasing Subsequence
 |  |
