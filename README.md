@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/rockingraviraj/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rockingraviraj/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rockingraviraj/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rockingraviraj/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rockingraviraj/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rockingraviraj/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rockingraviraj/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rockingraviraj/LeetCode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/rockingraviraj/LeetCode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rockingraviraj/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rockingraviraj/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rockingraviraj/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Combinatorics
@@ -312,10 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/rockingraviraj/LeetCode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rockingraviraj/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rockingraviraj/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rockingraviraj/LeetCode/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rockingraviraj/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rockingraviraj/LeetCode/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rockingraviraj/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
